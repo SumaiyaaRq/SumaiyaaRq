@@ -57,7 +57,7 @@
 
 ## 🌱 Open Source
 
-- 🌍 Contributing via **Outreachy**
+
 - 🔁 Experience with PRs, reviews, and collaborative workflows  
 - 🧠 Learning real-world project structures  
 

@@ -1,69 +1,111 @@
-<h1 align="center">Hi 👋, I'm Sumaiya</h1>
-<h3 align="center">Aspiring Software Developer | GenAI Explorer | Open Source Contributor</h3>
+<h1 align="center">Hi 👋, I'm Sumaiya </h1>
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SumaiyaaRq&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p> -->
+<h3 align="center">
+Aspiring AI/ML Engineer • GenAI Explorer • Open Source Contributor
+</h3>
 
----
-
-## 🌟 About Me
-
-- 💻 I build **real-world web applications** and explore how systems work behind the scenes  
-- 🤖 Interested in **Generative AI, NLP, and data-driven solutions**  
-- 🌱 Currently focused on **DSA + System Design fundamentals**  
-- 🤝 Contributor in **open source (Outreachy journey)**  
-- 🎯 Looking for **internship opportunities in software development / AI**
+<p align="center">
+Building intelligent systems, learning scalable software engineering, and exploring real-world AI applications.
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- 🤖 Exploring **Generative AI, NLP, Machine Learning, and LLM-powered applications**
+- 💻 Building projects across **AI + software engineering**
+- 🌱 Currently improving my skills in:
+  - Data Structures & Algorithms
+  - Backend fundamentals
+  - System Design basics
+  - Applied Machine Learning
+- 🔍 Interested in how systems work internally — from APIs to ML pipelines
+- 🤝 Contributor to open-source projects through my Outreachy contribution journey
+- 🎯 Seeking opportunities in:
+  - AI/ML Engineering
+  - Software Development
+  - GenAI / NLP Internships
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
 
-### 🌐 Web Dev
+## 🌐 Development
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### ⚙️ Tools & Tech
+## 🤖 AI / Data
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-%23007ACC.svg?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge)
+
+## ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+
+# 📌 Featured Projects
+
+## 🤖 Reflectra — AI Sentiment & Mood Analysis Platform
+- Built an NLP-powered sentiment analysis platform using machine learning
+- Implemented mood trend forecasting and keyword extraction
+- Converted unstructured text into behavioral insights
+
+**Tech Stack:** Python, Flask, scikit-learn, NLP, SQLite
 
 ---
 
-## 📌 Projects
+## 🧠 DecideAI — Behavioral Decision Analysis System
+- Developed a data-driven analysis system for studying decision patterns
+- Structured and processed behavioral data using Python workflows
+- Focused on extracting insights from user interaction patterns
 
-### 🌍 Travel Booking System
-- Booking platform for flights, trains, and hotels  
-- Includes city guides for users  
-- Built collaboratively in a team  
-
-**Tech:** HTML, CSS, JavaScript, Oracle DB  
+**Tech Stack:** Python, SQLite, Pandas, Machine Learning
 
 ---
 
-### 🤖 NLP / GenAI Projects
-- Text processing and analysis  
-- Exploring real-world AI applications  
-- Working with Python-based models  
+## 🌍 Travel Booking System
+- Collaborative booking platform for flights, trains, and hotels
+- Included destination guides and user-friendly booking flows
+
+**Tech Stack:** HTML, CSS, JavaScript, Oracle DB
 
 ---
 
-## 🌱 Open Source
+# 🌱 Open Source Journey
 
-
-- 🔁 Experience with PRs, reviews, and collaborative workflows  
-- 🧠 Learning real-world project structures  
+- Contributed to open-source repositories during Outreachy contribution phase
+- Worked with:
+  - Git workflows
+  - Pull requests
+  - Issue tracking
+  - Debugging and UI fixes
+- Learned how large collaborative projects are structured
 
 ---
 
-## 📊 GitHub Stats
+# 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Backend Engineering
+- ML fundamentals & experimentation
+- LLM applications and GenAI tooling
+- Clean architecture and scalable systems
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SumaiyaaRq&show_icons=true&theme=tokyonight" />
@@ -75,25 +117,20 @@
 
 ---
 
-## 📈 Currently Learning
-
-- Data Structures & Algorithms  
-- System Design basics  
-- Writing scalable, clean code  
-
----
-
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sumaiya-rafique-606b633b2/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/SumaiyaaRq"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/sumaiya-rafique-606b633b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="https://github.com/SumaiyaaRq">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
-## ⚡ Fun Note
+# ⚡ Developer Mindset
 
-> I enjoy debugging things that *should work but don’t* — that’s where the real learning happens.
-
----
+> I enjoy solving problems, debugging complex issues, and understanding how systems behave internally — especially where software and AI intersect.

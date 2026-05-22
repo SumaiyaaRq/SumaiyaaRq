@@ -104,6 +104,7 @@ Building intelligent systems, learning scalable software engineering, and explor
 - Clean architecture and scalable systems
 
 ---
+# 📈 Certifications
 
 # 📈 GitHub Stats
 

@@ -105,6 +105,10 @@ Building intelligent systems, learning scalable software engineering, and explor
 
 ---
 # 📈 Certifications
+-
+-
+-
+-
 
 # 📈 GitHub Stats
 

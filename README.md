@@ -105,7 +105,7 @@ Building intelligent systems, learning scalable software engineering, and explor
 
 ---
 # 📈 Certifications
--
+- Getting Started with Generative AI  : IBM SkillsBuild
 -
 -
 -

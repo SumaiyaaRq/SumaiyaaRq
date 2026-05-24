@@ -105,7 +105,7 @@ Building intelligent systems, learning scalable software engineering, and explor
 
 ---
 # 📈 Certifications
-- Getting Started with Generative AI  : IBM SkillsBuild
+- <p font-size="2em"><a href="https://www.credly.com/earner/earned/badge/5fa93aa6-1cc4-45c6-9fcb-544a6719e257" >Getting Started with Generative AI  : IBM SkillsBuild</a></p>
 -
 -
 -

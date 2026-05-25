@@ -100,6 +100,7 @@ Building intelligent systems, learning scalable software engineering, and explor
 - Data Structures & Algorithms
 - Backend Engineering
 - ML fundamentals & experimentation
+- Deep Learning
 - LLM applications and GenAI tooling
 - Clean architecture and scalable systems
 

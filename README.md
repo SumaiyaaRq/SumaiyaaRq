@@ -105,7 +105,7 @@ Building intelligent systems, learning scalable software engineering, and explor
 - Clean architecture and scalable systems
 
 ---
-# 👩🏼‍💻 Certifications
+# 👩🏼‍💻 Badges & Certifications
 - <p font-size="2em"><a href="https://www.credly.com/earner/earned/badge/5fa93aa6-1cc4-45c6-9fcb-544a6719e257" >Getting Started with Generative AI  : IBM SkillsBuild</a></p>
 - <p font-size="2em"><a href="https://www.credly.com/earner/earned/badge/ae76d710-bc4c-4646-b165-da0e169ff7cf" >Data Analytics for Machine Learning  : IBM SkillsBuild</a></p>
 - <p font-size="2em"><a href="https://www.credly.com/earner/earned/badge/256525fa-1b5f-4366-8c2a-7ba84166f206" >Supervised Learning Methods  : IBM SkillsBuild</a></p>

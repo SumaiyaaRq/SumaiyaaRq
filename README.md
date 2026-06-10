@@ -5,7 +5,7 @@ Aspiring AI/ML Engineer • GenAI Explorer • Open Source Contributor
 </h3>
 
 <p align="center">
-Building intelligent systems, learning scalable software engineering, and exploring real-world AI applications.
+Building intelligent systems, learning scalable software engineering, and exploring real-world AI applications!
 </p>
 
 ---

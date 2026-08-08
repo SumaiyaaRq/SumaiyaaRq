@@ -98,7 +98,6 @@ Building intelligent systems, learning scalable software engineering, and explor
 # 📚 Currently Learning
 
 - Data Structures & Algorithms
-- Backend Engineering
 - ML fundamentals & experimentation
 - Deep Learning
 - LLM applications and GenAI tooling

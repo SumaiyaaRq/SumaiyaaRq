@@ -21,10 +21,10 @@ Building intelligent systems, learning scalable software engineering, and explor
   - Applied Machine Learning
 - 🔍 Interested in how systems work internally — from APIs to ML pipelines
 - 🤝 Contributor to open-source projects through my Outreachy contribution journey
-- 🎯 Seeking opportunities in:
-  - AI/ML Engineering
+- 🎯 Seeking Internship opportunities in:
+  - AI/ML Engineering 
   - Software Development
-  - GenAI / NLP Internships
+  - GenAI / NLP 
 
 ---
 

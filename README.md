@@ -12,7 +12,7 @@ Building intelligent systems, learning scalable software engineering, and explor
 
 ## 👩🏼‍💻 About Me
 
-- 🤖 Exploring **EDA , Artificial Intelligence , Deep Learning Concepts , NLP, Machine Learning, and LLM-powered applications**
+- 🤖 Exploring **Exploratory Data Analysis, Artificial Intelligence , Deep Learning Concepts , NLP, Machine Learning, and LLM-powered applications**
 - 💻 Building projects across **AI + software engineering**
 - 🌱 Currently improving my skills in:
   - Data Structures & Algorithms

@@ -24,7 +24,8 @@ Building intelligent systems, learning scalable software engineering, and explor
 - 🎯 Seeking Internship opportunities in:
   - AI/ML Engineering 
   - Software Development
-  - GenAI / NLP 
+  - GenAI
+  - NLP 
 
 ---
 

@@ -14,14 +14,14 @@ Building intelligent systems, learning scalable software engineering, and explor
 
 - 🤖 Exploring **Exploratory Data Analysis, Artificial Intelligence , Deep Learning Concepts , NLP, Machine Learning, and LLM-powered applications**
 - 💻 Building projects across **AI + Software Engineering**
-- 🌱 Currently improving my skills in:
+- 🌱 Currently improving my skills in :
   - Data Structures & Algorithms
   - Backend fundamentals
   - System Design basics
   - Applied Machine Learning
 - 🔍 Interested in how systems work internally — from APIs to ML pipelines
 - 🤝 Contributor to open-source projects through my Outreachy contribution journey
-- 🎯 Seeking Internship opportunities in:
+- 🎯 Seeking Internship opportunities in :
   - AI/ML Engineering 
   - Software Development
   - GenAI

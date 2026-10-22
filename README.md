@@ -103,6 +103,7 @@ Building intelligent systems, learning scalable software engineering, and explor
 - Deep Learning
 - LLM applications and GenAI tooling
 - Clean architecture and scalable systems
+- System Design
 
 ---
 # 👩🏼‍💻 Badges & Certifications

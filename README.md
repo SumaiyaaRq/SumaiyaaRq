@@ -24,7 +24,7 @@ Building intelligent systems, learning scalable software engineering, and explor
 - 👩🏼‍💻 Currently working on AI-Voice Receptionist
 - 🎯 Seeking Internship opportunities in :
   - AI/ML Engineering 
-  - Software Development
+  - Software Engineering & Development
   - GenAI
   - NLP 
 

@@ -105,6 +105,7 @@ Building intelligent systems, learning scalable software engineering, and explor
 - LLM applications and GenAI tooling
 - Clean architecture and scalable systems
 - System Design
+- Strengthening core concepts
 
 ---
 # 👩🏼‍💻 Badges & Certifications

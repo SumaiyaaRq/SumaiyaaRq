@@ -26,7 +26,8 @@ Building intelligent systems, learning scalable software engineering, and explor
   - AI/ML Engineering 
   - Software Engineering & Development
   - GenAI
-  - NLP 
+  - NLP
+  - Agentic AI
 
 ---
 

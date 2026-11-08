@@ -21,7 +21,7 @@ Building intelligent systems, learning scalable software engineering, and explor
   - Applied Machine Learning
 - 🔍 Interested in how systems work internally — from APIs to ML pipelines
 - 🤝 Contributor to open-source projects through my Outreachy contribution journey
-- 👩🏼‍💻 Currently building AI-Voice Receptionist
+- 👩🏼‍💻 Currently working on AI-Voice Receptionist
 - 🎯 Seeking Internship opportunities in :
   - AI/ML Engineering 
   - Software Engineering & Development

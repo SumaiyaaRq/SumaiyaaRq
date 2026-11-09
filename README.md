@@ -10,7 +10,7 @@ Building intelligent systems, learning scalable software engineering, and explor
 
 ---
 
-## 👋 Know Me
+## 👋 A Little About Me
 
 - 🤖 Exploring **Exploratory Data Analysis, Artificial Intelligence , Deep Learning Concepts , NLP, Machine Learning, and LLM-powered applications , Agentic AI**
 - 💻 Building projects across **AI + Software Engineering**

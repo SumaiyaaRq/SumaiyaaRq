@@ -78,10 +78,6 @@ Building intelligent systems, learning scalable software engineering, and explor
 
 ---
 
-## 🌍 Travel Booking System
-- Collaborative booking platform for flights, trains, and hotels
-- Included destination guides and user-friendly booking flows
-
 **Tech Stack:** HTML, CSS, JavaScript, Oracle DB
 
 ---

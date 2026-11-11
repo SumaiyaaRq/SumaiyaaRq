@@ -18,7 +18,7 @@ Building intelligent systems, learning scalable software engineering, and explor
   - Data Structures & Algorithms
   - Backend fundamentals
   - System Design basics
-  - Applied Machine Learning
+  - Machine Learning
 - 🔍 Interested in how systems work internally — from APIs to ML pipelines
 - 🤝 Contributor to open-source projects through my Outreachy contribution journey
 - 👩🏼‍💻 Currently working on AI-Voice Receptionist

@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋, I'm Sumaiya </h1>
 
 <h3 align="center">
-Aspiring AI/ML Engineer • Generative AI Explorer • Open Source Contributor
+Aspiring AI/ML Engineer • Gen AI Explorer • Open Source Contributor
 </h3>
 
 <p align="center">

@@ -104,7 +104,6 @@ Building intelligent systems, learning scalable software engineering, and explor
 - ML fundamentals & experimentation
 - Deep Learning
 - LLM applications and GenAI tooling
-- Clean architecture and scalable systems
 - System Design
 - Strengthening core concepts
 
